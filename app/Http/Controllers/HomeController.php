@@ -25,6 +25,7 @@ class HomeController extends Controller
     {
         echo 'helllo';
         echo "yes it doing great ";
+        echo "new updates ";
         return view('home');
     }
 }
